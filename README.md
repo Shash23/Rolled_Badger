@@ -97,7 +97,7 @@ All session-protected endpoints use the `session_id` cookie set after Strava OAu
 | GET | `/recommendation/explain` | Why the recommendation was chosen |
 | GET | `/predict_next_stress` | Debug: stress for given distance/pace |
 
-Details: **docs/API_REFERENCE.md**.
+Further Details: **docs/API_REFERENCE.md**.
 
 ---
 
